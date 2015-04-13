@@ -2,7 +2,7 @@
 Public Class frmdangnhap
 
     Private Sub btndangnhap_Click(sender As Object, e As EventArgs) Handles btndangnhap.Click
-
+        'Đoạn code này dùng để tạo biến cho kết nối với CSDL trên Database được lưu trên Somme
         Dim chuoiketnoi As String = "workstation id=tuanlps01842.mssql.somee.com;packet size=4096;user id=tuanlps01842;pwd=Letuan123;data source=tuanlps01842.mssql.somee.com;persist security info=False;initial catalog=tuanlps01842"
 
         Dim KetNoi As SqlConnection = New SqlConnection(chuoiketnoi)

@@ -40,3 +40,5 @@ E:\ASM_CLOUD\ASM_CLOUD\ASM_CLOUD\obj\Debug\ASM_CLOUD.Lsanpham.resources
 E:\ASM_CLOUD\ASM_CLOUD\ASM_CLOUD\obj\Debug\ASM_CLOUD.khachhang.resources
 E:\ASM_CLOUD\ASM_CLOUD\ASM_CLOUD\obj\Debug\ASM_CLOUD.nhanvien.resources
 E:\ASM_CLOUD\ASM_CLOUD\ASM_CLOUD\obj\Debug\ASM_CLOUD.nguong.resources
+D:\ASM_CLOUD_PS01842\ASM_CLOUD\bin\Debug\ASM_CLOUD.exe.config
+D:\ASM_CLOUD_PS01842\ASM_CLOUD\obj\Debug\ASM_CLOUD.xml
